@@ -1,0 +1,3 @@
+# git-prueba
+Experimentación con Git
+Son los prmiros pasos con Git... 
